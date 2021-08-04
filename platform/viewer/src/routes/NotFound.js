@@ -3,7 +3,7 @@ import './NotFound.css';
 import { Link } from 'react-router-dom';
 import { useAppContext } from '../context/AppContext';
 
-export default function NotFound({ message = 'Sorry, this page does not exist.', showGoBackButton = true }) {
+export default function NotFound({ message = 'Sorry, these are not DICOM files', showGoBackButton = true }) {
   
   const context = useAppContext();
   

@@ -90,7 +90,7 @@
   font-weight: 400;
   line-height: 18px;
   text-decoration: none;
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
 
 .entry-header.header-big .header-menu {
@@ -102,7 +102,7 @@
   font-size: 13px;
   font-weight: 700;
   color: #91b9cd;
-  margin-right: 1rem;
+  /* margin-right: 1rem; */
 }
 
 .notification-bar {
